@@ -12,4 +12,4 @@ A basic blog layout template with responsive design. Check out the live version!
 
 ---
 
-Feel free to explore each project by clicking on the links, and let me know your feedback!
+
