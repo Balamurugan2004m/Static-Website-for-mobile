@@ -1,6 +1,6 @@
 # My Web Projects
 
-Welcome to my collection of web development projects! Each project is built using HTML, CSS, and JavaScript.
+Welcome to my collection of web development projects! Each project is built using HTML, CSS, and JavaScript
 
 ## Projects
 
