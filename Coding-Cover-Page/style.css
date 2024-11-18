@@ -1,67 +1,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
 
+
 .bg-container {
-    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png');
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png');
     background-size: cover;
     height: 100vh;
-    padding:20px;
+
 }
 
-.main-heading {
-    margin-top: 15px;
-    text-align: center;
-    color: white;
-    font-family: "Roboto";
-    font-weight: bold;
-    font-style: normal;
-    font-size: 45px;
-}
 
-.paragraph {
-    padding: 10px;
-    text-align: center;
-    color: #cccccc;
-    font-family: "Roboto";
-    font-weight: normal;
-    font-style: normal;
-    font-size: 18px;
+.coding-card {
+    background-color: #00000080;
+    border: 6px solid #48ee59;
+    padding: 50px;
+    margin: 30px;
 }
 
 .head {
     color: white;
-    font-family: "Roboto";
-
-    font-style: normal;
-    font-size: 25px;
-}
-
-.para {
-    color: #cccccc;
-    font-family: "Roboto";
-    font-weight: normal;
-    font-style: normal;
-    font-size: 18px;
-}
-
-.button {
-    height: 40px;
-    width: 90px;
-    font-size: 20px;
-    font-weight: bold;
-    color: white;
-    background-color: orange;
-}
-
-.btn {
-    text-align: center;
-}
-
-.last-para {
-    text-align: center;
-    color: #cccccc;
-    font-family: "Roboto";
-    font-weight: normal;
-    font-style: normal;
-    font-size: 18px;
-    text-decoration: underline;
+    font-family: "Bree Serif";
 }
