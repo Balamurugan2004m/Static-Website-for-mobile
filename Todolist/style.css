@@ -4,6 +4,7 @@
     background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png');
     background-size: cover;
     height: 100vh;
+    padding:20px;
 }
 
 .main-heading {
