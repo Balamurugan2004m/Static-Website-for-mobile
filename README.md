@@ -24,5 +24,17 @@ A vibrant landing page for online food ordering. The design highlights a colorfu
 
 ---
 
+### [Project 5: Advanced Technologies Cover Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Advanced-Technologies/)
+A futuristic-themed cover page showcasing advancements in technology through immersive design. Highlighting cutting-edge visuals, a modern layout, and a sleek VR-inspired theme, this project reflects innovation and the impact of scientific knowledge.
+
+![Advanced Technologies Cover Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/images/Advanced-Technologies-output-image.png)
+
+---
+
+### [Project 6: News Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/News-Page/)
+A dynamic news page that highlights the latest updates in technology, sports, and global events. This project combines a clean newspaper-inspired design with responsive elements to ensure readability across devices. Features include bold headlines, thematic visuals, and concise content blocks.
+
+![News Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/images/News-Page-Output-image.png)
+
 
 
