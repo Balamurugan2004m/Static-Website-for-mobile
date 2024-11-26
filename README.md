@@ -24,7 +24,7 @@ A vibrant landing page for online food ordering. The design highlights a colorfu
 
 ---
 
-### [Project 5: Advanced Technologies Cover Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Advanced-Technologies/)
+### [Project 5: Advanced Technologies Cover Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Advanced-Technologies-Cover-Page/)
 A futuristic-themed cover page showcasing advancements in technology through immersive design. Highlighting cutting-edge visuals, a modern layout, and a sleek VR-inspired theme, this project reflects innovation and the impact of scientific knowledge.
 
 
