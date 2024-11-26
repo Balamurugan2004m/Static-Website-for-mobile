@@ -19,7 +19,7 @@ An eye-catching coding-themed cover page designed to inspire and motivate. Featu
 
 ---
 
-### [Project 4: Food Order Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/News-Page/)
+### [Project 4: Food Order Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Food-Order-Page/)
 A vibrant landing page for online food ordering. The design highlights a colorful background, clear calls-to-action, and an intuitive layout to attract users to discover and order from over 1,000 restaurants.
 
 ---
