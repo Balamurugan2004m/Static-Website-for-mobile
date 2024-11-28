@@ -2,7 +2,7 @@
 
 Welcome to my collection of web development projects!
 
-## Projects
+---
 
 ### [Project 1: Todolist](https://balamurugan2004m.github.io/Static-Website-for-mobile/Todolist/)
 A modern To-Do List application designed to help users organize their tasks effectively. This project showcases clean design principles with a visually appealing background, user-friendly layout, and interactive elements to enhance productivity.
@@ -27,7 +27,6 @@ A vibrant landing page for online food ordering. The design highlights a colorfu
 ### [Project 5: Advanced Technologies Cover Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Advanced-Technologies-Cover-Page/)
 A futuristic-themed cover page showcasing advancements in technology through immersive design. Highlighting cutting-edge visuals, a modern layout, and a sleek VR-inspired theme, this project reflects innovation and the impact of scientific knowledge.
 
-
 ---
 
 ### [Project 6: News Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/News-Page/)
@@ -35,7 +34,12 @@ A dynamic news page that highlights the latest updates in technology, sports, an
 
 ---
 
+### [Project 7: Hotel Booking Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Hotel-Booking-Page/)
+A sleek and modern hotel booking interface featuring a captivating design. The project highlights an elegant card layout with vivid imagery, interactive call-to-action buttons, and clear pricing details to make online bookings seamless.
 
+---
 
+### [Project 8: Cricketer Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Cricketer-Page/)
+A vibrant cricketer profile page showcasing key achievements, records, and videos. This project leverages modular design, bold typography, and engaging visuals to provide fans with an interactive and information-rich experience.
 
-
+---
