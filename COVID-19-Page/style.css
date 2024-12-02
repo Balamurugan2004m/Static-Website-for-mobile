@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.covid-19-bg-container {
+    border-width: 5px;
+    border-style: solid;
+    border-color: #0967d219;
+    padding: 10px;
+}
+
+.first-container-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+
+.button {
+    margin-left: 10px;
+    background-color: #0967d2;
+}
+
+.second-container {
+    background-color: #0967d219;
+    margin: 10px;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.second-container-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.second-container-paragraph {
+    color: #707070;
+    font-family: "Roboto";
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.second-text-container {
+    padding-left: 20px;
+}
+
+.corono-image {
+    width: 70px;
+    height: 70px;
+}
+
+.Symptoms-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    padding-left: 10px;
+}
+
+.Symptoms-container-description {
+    color: white;
+    font-family: "Roboto";
+    font-size: 13px;
+    padding-top: 5px;
+}
+
+.Symptoms-card {
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: #3ebd93;
+    height: 90px;
+    width: 90px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.card-extra-space {
+    margin-left: 25px;
+}
+
+.card-high-fever {
+    background-color: #e668a7;
+}
+
+.card-headache {
+    background-color: #a368fc;
+}
+
+.last-container {
+    background-color: #e12d3919;
+    margin-top: 10px;
+}
+
+.videos-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    padding-top: 20px;
+    padding-left: 10px;
+}
