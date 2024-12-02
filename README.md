@@ -5,41 +5,51 @@ Welcome to my collection of web development projects!
 ---
 
 ### [Project 1: Todolist](https://balamurugan2004m.github.io/Static-Website-for-mobile/Todolist/)
-A modern To-Do List application designed to help users organize their tasks effectively. This project showcases clean design principles with a visually appealing background, user-friendly layout, and interactive elements to enhance productivity.
+A modern to-do list app with a clean design and interactive layout to boost productivity.
 
 ---
 
 ### [Project 2: Chat Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Chat-Page/)
-A simple, visually engaging chat interface replicating a casual conversation. The project demonstrates conversational flow with aesthetic backgrounds, responsive design, and CSS-styled message bubbles to enhance user engagement.
+A visually engaging chat interface featuring styled message bubbles and responsive design.
 
 ---
 
 ### [Project 3: Coding Cover Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Coding-Cover-Page/)
-An eye-catching coding-themed cover page designed to inspire and motivate. Featuring vibrant design elements, a dark-mode aesthetic, and impactful typography, this page emphasizes the essence of coding as more than just a technical craft.
+A coding-themed cover page with vibrant design and impactful typography to inspire developers.
 
 ---
 
 ### [Project 4: Food Order Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Food-Order-Page/)
-A vibrant landing page for online food ordering. The design highlights a colorful background, clear calls-to-action, and an intuitive layout to attract users to discover and order from over 1,000 restaurants.
+A colorful online food ordering page with intuitive layout and clear calls-to-action.
 
 ---
 
 ### [Project 5: Advanced Technologies Cover Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Advanced-Technologies-Cover-Page/)
-A futuristic-themed cover page showcasing advancements in technology through immersive design. Highlighting cutting-edge visuals, a modern layout, and a sleek VR-inspired theme, this project reflects innovation and the impact of scientific knowledge.
+A sleek, futuristic cover page showcasing technological advancements through immersive design.
 
 ---
 
 ### [Project 6: News Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/News-Page/)
-A dynamic news page that highlights the latest updates in technology, sports, and global events. This project combines a clean newspaper-inspired design with responsive elements to ensure readability across devices. Features include bold headlines, thematic visuals, and concise content blocks.
+A dynamic news page featuring bold headlines, thematic visuals, and responsive elements.
 
 ---
 
 ### [Project 7: Hotel Booking Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Hotel-Booking-Page/)
-A sleek and modern hotel booking interface featuring a captivating design. The project highlights an elegant card layout with vivid imagery, interactive call-to-action buttons, and clear pricing details to make online bookings seamless.
+A modern hotel booking interface with vivid imagery and interactive call-to-action buttons.
 
 ---
 
 ### [Project 8: Cricketer Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Cricketer-Page/)
-A vibrant cricketer profile page showcasing key achievements, records, and videos. This project leverages modular design, bold typography, and engaging visuals to provide fans with an interactive and information-rich experience.
+A cricketer profile page showcasing achievements, records, and videos with bold visuals.
+
+---
+
+### [Project 9: COVID-19 Information Page](#)
+A COVID-19 awareness page featuring symptoms, prevention videos, and testing information.
+
+---
+
+### [Project 10: Goa Tourism Page](#)
+A tourism page highlighting Goa’s beaches, nightlife, and culture with interactive visuals.
 
 ---
