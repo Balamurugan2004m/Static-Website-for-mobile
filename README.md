@@ -44,7 +44,7 @@ A cricketer profile page showcasing achievements, records, and videos with bold 
 
 ---
 
-### [Project 9: COVID-19 Information Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Cricketer-Page/)
+### [Project 9: COVID-19 Information Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/COVID-19-Page/)
 A COVID-19 awareness page featuring symptoms, prevention videos, and testing information.
 
 ---
