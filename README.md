@@ -49,7 +49,7 @@ A COVID-19 awareness page featuring symptoms, prevention videos, and testing inf
 
 ---
 
-### [Project 10: Goa Tourism Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Cricketer-Page/)
+### [Project 10: Goa Tourism Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Goa-Page/)
 A tourism page highlighting Goa’s beaches, nightlife, and culture with interactive visuals.
 
 ---
