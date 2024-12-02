@@ -44,12 +44,12 @@ A cricketer profile page showcasing achievements, records, and videos with bold 
 
 ---
 
-### [Project 9: COVID-19 Information Page](#)
+### [Project 9: COVID-19 Information Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Cricketer-Page/)
 A COVID-19 awareness page featuring symptoms, prevention videos, and testing information.
 
 ---
 
-### [Project 10: Goa Tourism Page](#)
+### [Project 10: Goa Tourism Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Cricketer-Page/)
 A tourism page highlighting Goa’s beaches, nightlife, and culture with interactive visuals.
 
 ---
