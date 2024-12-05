@@ -53,3 +53,8 @@ A COVID-19 awareness page featuring symptoms, prevention videos, and testing inf
 A tourism page highlighting Goa’s beaches, nightlife, and culture with interactive visuals.
 
 ---
+
+### [Project 11: Movie Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Movie-Page/)
+A vibrant movie showcase featuring summaries, character highlights, and recommendations for similar films.
+
+---
