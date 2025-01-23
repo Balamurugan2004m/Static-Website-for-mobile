@@ -58,3 +58,61 @@ A tourism page highlighting Goa’s beaches, nightlife, and culture with interac
 A vibrant movie showcase featuring summaries, character highlights, and recommendations for similar films.
 
 ---
+
+### [Project 12: Mobile Specifications Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Mobile-Specifications-Page/)
+A detailed page displaying the latest mobile specifications, comparisons, and reviews.
+
+---
+
+### [Project 13: Conference Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Conference-Page/)
+A professional conference page with agenda highlights, speaker profiles, and registration options.
+
+---
+
+### [Project 14: Quiz Question Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Quiz-Question-Page/)
+An interactive quiz page with multiple-choice questions and instant feedback.
+
+---
+
+### [Project 15: Podcast Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Podcast-Page/)
+A podcast showcase featuring episodes, guest highlights, and streaming options.
+
+---
+
+### [Project 16: Music Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Music-Page/)
+A vibrant music page with playlists, artist profiles, and audio streaming capabilities.
+
+---
+
+### [Project 17: Book Store Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Book-Store-Page/)
+An online bookstore featuring categories, bestsellers, and user-friendly navigation.
+
+---
+
+### [Project 18: My Project Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/My-Project-Page/)
+A showcase of personal projects with links, descriptions, and achievements.
+
+---
+
+### [Project 19: Favourite Stores Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Favourite-Stores-Page/)
+A page highlighting favorite stores with products, discounts, and store details.
+
+---
+
+### [Project 20: Foundations Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Foundations-Page/)
+A page featuring charitable foundations, their missions, and donation options.
+
+---
+
+### [Project 21: Yoga Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Yoga-Page/)
+A yoga page showcasing poses, benefits, and video tutorials for a healthy lifestyle.
+
+---
+
+### [Project 22: Flats Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Flats-Page/)
+A modern real estate page showcasing available flats with details, images, and contact forms.
+
+---
+
+### [Project 23: Articles Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Articles-Page/)
+A blog-style page with curated articles on various topics and interactive features.
