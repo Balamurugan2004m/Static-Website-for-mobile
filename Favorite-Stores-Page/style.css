@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.bg-container {
+    background-color: #894bca;
+}
+
+.image {
+    height: 200px;
+    margin-top: 10px;
+}
+
+.top-section-heading {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 30px;
+    padding: 30px;
+}
+
+.bottom-container {
+    margin-top: 15px;
+    padding: 10px;
+    padding-left: 20px;
+    background-color: white;
+    border-top-right-radius: 13px;
+    border-top-left-radius: 13px;
+}
+
+.bottom-container-heading {
+    color: #f789c3;
+    font-size: 20px;
+    font-family: "Bree Serif";
+    padding-top: 10px;
+
+}
+
+.card-image {
+    height: 55px;
+}
+
+.text-container {
+    padding-left: 15px;
+}
+
+.card-heading {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card-paragraph {
+    color: #7b8794;
+    font-size: 15px;
+}

@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.home-page-bg-container {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.home-page-card-container {
+    background-color: white;
+    border-top-right-radius: 13px;
+    border-top-left-radius: 13px;
+    padding: 30px;
+    text-align: center;
+}
+
+.home-page-card-heading {
+    padding-top: 10px;
+    color: #f19116;
+    font-size: 26px;
+    font-family: "Bree Serif";
+}
+
+.home-page-card-paragraph {
+    color: #7b8794;
+    font-size: 17px;
+    font-family: "Bree Serif";
+}
+
+.home-page-button {
+    background-color: #f19116;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    ;
+}
+
+.home-page-button:hover {
+    color: white;
+}
+
+.flats-list-page-bg-container {
+    background-color: #222222;
+    height: 100vh;
+    padding: 15px;
+}
+
+.flats-list-heading {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    color: #f19116;
+    font-size: 28px;
+    font-family: "Bree Serif";
+}
+
+.card-container {
+    background-color: white;
+    border-radius: 13px;
+}
+
+.text-container {
+    padding: 10px;
+}
+
+.card-image {
+    height: 185px;
+    width: 100px;
+}
+
+.card-image-2 {
+    height: 165px;
+}
+
+.card-heading {
+    color: #0f0e46;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Bree Serif";
+}
+
+.card-paragraph {
+    color: #6c6b70;
+    font-size: 15px;
+    font-family: "Bree Serif";
+}
+
+.back-button {
+    width: 100px;
+}
+
+.flat-page-image {
+    height: 40vh;
+}
+
+.flat-page-text-container {
+    background-color: #222222;
+    height: 57vh;
+    padding: 20px;
+}
+
+.location-logo {
+    height: 30px;
+}
+
+.back-button1 {
+    width: 90px;
+}
+
+.flat-page-head {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-weight: 100;
+    font-size: 28px;
+}
