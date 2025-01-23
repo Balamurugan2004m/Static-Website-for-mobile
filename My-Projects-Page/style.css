@@ -1,0 +1,220 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.bg-container {
+    padding: 25px;
+}
+
+.image {
+    height: 40vh;
+}
+
+.heading {
+    color: #183b56;
+    font-size: 26px;
+    font-family: "Bree Serif";
+}
+
+.paragraph {
+    color: #616e7c;
+    font-size: 16px;
+    font-family: "Bree Serif";
+}
+
+.project-image {
+    height: 100px;
+}
+
+
+.at-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.at-card {
+    background-color: white;
+    padding: 20px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.at-card-heading {
+    color: #5752ab;
+    font-family: "Bree Serif";
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.at-card-paragraph {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.at-card-learn-more-button {
+    color: #171f46;
+    background-color: white;
+    border-width: 1px;
+    border-color: #d7dfe9;
+    height: 40px;
+    width: 140px;
+    border-radius: 8px;
+    font-family: "Roboto";
+    margin-right: 7px;
+
+}
+
+.at-card-save-draft-button {
+    color: white;
+    background-color: #5752ab;
+    border-width: 0px;
+    height: 40px;
+    width: 140px;
+    border-radius: 10px;
+    font-family: "Roboto";
+    margin-left: 8px;
+
+}
+
+.at-back-button {
+    height: 40px;
+    width: 60px;
+    border-radius: 8px;
+}
+
+.news-page-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.news-page-card {
+    background-color: white;
+    padding: 20px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.news-page-card-paragraph {
+    color: #7b8794;
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.news-page-card-heading {
+    color: #323f4b;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.news-para {
+    padding-top: 10px;
+}
+
+.news-page-card-button {
+    height: 40px;
+    width: 142px;
+    color: white;
+    background-color: #323f4b;
+    border-radius: 8px;
+    border-width: 0px;
+}
+
+.news-back-button {
+    height: 40px;
+    width: 60px;
+    border-radius: 8px;
+}
+
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.diwali-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.diwali-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.food-bg-container {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.food-home-card {
+    background-color: #f6c56e;
+    border-radius: 20px 20px 0px 0px;
+    padding: 30px;
+}
+
+.food-button {
+    color: black;
+    background-color: #ffffff;
+    height: 40px;
+    width: 148px;
+    font-weight: 500;
+    border: none;
+    border-radius: 8px;
+}
+
+.food-heading {
+    color: #323f4b;
+    font-size: 35px;
+    font-weight: 500;
+    font-family: "Bree Serif";
+}
+
+.food-paragraph {
+    color: #323f4b;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: "Roboto";
+}
+
+.food-order-back-button {
+    height: 40px;
+    width: 60px;
+    border-radius: 8px;
+}

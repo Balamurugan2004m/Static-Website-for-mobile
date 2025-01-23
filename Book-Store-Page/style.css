@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.bg-container {
+    background-color: #1b1b1b;
+    padding: 25px;
+}
+
+.main-heading {
+    color: white;
+    font-family: "Bree Sherif";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.apj-image {
+    height: 200px;
+}
+
+.card-container {
+    background-color: #e6f6ff;
+    border-radius: 8px;
+}
+
+.card-heading {
+    color: #183b56;
+    font-size: 24px;
+    font-family: "Bree Serif";
+}
+
+.card-paragraph {
+    color: #06070d;
+    font-size: 15px;
+    font-family: "Bree Serif";
+}
+
+.card-author {
+    color: #183b56;
+    font-size: 15px;
+    font-family: "Bree Serif";
+}
+
+.text-container {
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
+
+.heading {
+    color: white;
+    font-size: 24px;
+    font-family: "Bree Serif";
+    margin-top: 10px;
+}
+
+.rb {
+    background-color: #1b1b1b;
+}
+
+.rb-head {
+    color: white;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.rb-text-container {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.rb-image {
+    height: 170px;
+}
+
+.rb-para {
+    color: #b8b6b6;
+}
+
+.book-bg-container {
+    background-color: #1b1b1b;
+    height: 100vh;
+}
+
+.detail-view {
+    height: 40vh;
+}
+
+.detail-heading {
+    color: white;
+    font-size: 26px;
+    font-family: "Bree Serif";
+    padding-top: 15px;
+}
+
+.detail-paragraph {
+    color: #9aa5b1;
+    font-size: 15px;
+    font-family: "Bree Serif";
+}
+
+.description {
+    color: #dbd9d9;
+    font-size: 14px;
+    font-family: "Bree Serif";
+}
