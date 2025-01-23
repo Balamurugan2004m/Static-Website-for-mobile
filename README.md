@@ -94,7 +94,7 @@ A showcase of personal projects with links, descriptions, and achievements.
 
 ---
 
-### [Project 19: Favourite Stores Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Favourite-Stores-Page/)
+### [Project 19: Favourite Stores Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Favorite-Stores-Page/)
 A page highlighting favorite stores with products, discounts, and store details.
 
 ---
