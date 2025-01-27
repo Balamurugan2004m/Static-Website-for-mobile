@@ -118,3 +118,8 @@ A modern real estate page showcasing available flats with details, images, and c
 A blog-style page with curated articles on various topics and interactive features.
 
 ---
+
+### [Project 24: Tourism Website](https://balamurugan2004m.github.io/Static-Website-for-mobile/Tourism-Website/)
+A responsive tourism website showcasing popular destinations in India with interactive sections, carousel views, and detailed descriptions to plan and explore trips.
+
+---
