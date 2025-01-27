@@ -116,3 +116,5 @@ A modern real estate page showcasing available flats with details, images, and c
 
 ### [Project 23: Articles Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Articles-Page/)
 A blog-style page with curated articles on various topics and interactive features.
+
+---
