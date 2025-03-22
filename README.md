@@ -89,7 +89,7 @@ An online bookstore featuring categories, bestsellers, and user-friendly navigat
 
 ---
 
-### [Project 18: My Project Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/My-Projects-Page/)
+### [Project 18: My Projects Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/My-Projects-Page/)
 A showcase of personal projects with links, descriptions, and achievements.
 
 ---
