@@ -123,3 +123,13 @@ A blog-style page with curated articles on various topics and interactive featu
 A responsive tourism website showcasing popular destinations in India with interactive sections, carousel views, and detailed descriptions to plan and explore trips.
 
 ---
+
+### [Project 25: Music Player Webpage](https://balamurugan2004m.github.io/Static-Website-for-mobile/Music-player-webpage/)
+A modern, responsive music player interface built with HTML and CSS offers a clean audio playback UI.
+
+---
+
+### [Project 26: Nxt Player App](https://balamurugan2004m.github.io/Static-Website-for-mobile/Nxt-player-app/)
+A responsive video player webpage built using HTML and CSS, featuring a clean UI and embedded controls for seamless playback.
+
+---
