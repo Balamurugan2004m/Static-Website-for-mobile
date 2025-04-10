@@ -39,7 +39,7 @@ A modern hotel booking interface with vivid imagery and interactive call-to-acti
 
 ---
 
-### [Project 8: Cricketer Page](https://balamurugan2004m.github.io/Static-Website-for-mobile/Cricketer-Page/)
+### [Project 8: Cricketer Page](https://balamurugan2004m.github.io/Static-Websites-for-mobile/Cricketer-Page/)
 A cricketer profile page showcasing achievements, records, and videos with bold visuals.
 
 ---
@@ -129,7 +129,7 @@ A modern, responsive music player interface built with HTML and CSS offers a cle
 
 ---
 
-### [Project 26: Nxt Player App](https://balamurugan2004m.github.io/Static-Website-for-mobile/Nxt-player-app/)
+### [Project 26: Nxt Player App](https://balamurugan2004m.github.io/Static-Websites-for-mobile/Nxt-player-app/)
 A responsive video player webpage built using HTML and CSS, featuring a clean UI and embedded controls for seamless playback.
 
 ---
